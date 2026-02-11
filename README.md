@@ -23,3 +23,17 @@ My contributions:
 -Set up the project for online access and future feature expansion.
 
 -Used the project as a hands-on way to practice end-to-end app development, from planning to deployment.
+
+## 📸 Screenshots
+| Feature | Preview |
+|------|------|
+| Dashoard | ![](screenshots/my-app-dash.png) |
+| Booking Main | ![](screenshots/my-app-booking-1.png) |
+| Add Booking | ![](screenshots/my-app-booking-2.png) |
+| Booking Details | ![](screenshots/my-app-booking-3.png) |
+| Calendar Month | ![](screenshots/my-app-calendar-1.png) |
+| Calendar Week | ![](screenshots/my-app-calendar-2.png) |
+| Calendar List | ![](screenshots/my-app-calendar3.png) |
+| UnitConfig | ![](screenshots/my-app-unitconfig.png) |
+
+
